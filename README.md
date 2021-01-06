@@ -1,5 +1,5 @@
 #Proyecto de Jquery
-
+![Screenshot 2021-01-05 at 8 41 55 PM](https://user-images.githubusercontent.com/46875264/103719234-90ebe700-4f96-11eb-8c82-892f2b43b316.png)
 - slider galeria de imagenes
 - listado dinamico de articulos
 - modo noche
@@ -23,3 +23,5 @@ Index.html
     └── serviceWorker.js
     └── setupTests.js
 ```
+![Screenshot 2021-01-05 at 8 41 43 PM](https://user-images.githubusercontent.com/46875264/103719208-85002500-4f96-11eb-8fc1-b12b01075445.png)
+
